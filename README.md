@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uliseschialva
 - 👀 I’m interested in Applied Math and Philosophy of Science.
-- 🌱 I’m currently doing a posdoc project on Computational Neuroscience.
+- 🌱 I’m currently doing a postdoc project on Computational Neuroscience.
 - 💞️ I’m looking to collaborate on improving numerical simulations and theoretical tools applied to neurobiology and stochastic process.
 - 📫 How to reach me: just write me a mail to uchialva@gmail.com
 
